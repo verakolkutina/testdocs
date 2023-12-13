@@ -1,0 +1,18 @@
+.. _street_call:
+
+3.1. Вызов с улицы
+==================
+
+Этот раздел содержит инструкции по открыванию двери домофоном вызовом с улицы.
+
+.. toctree::
+   :maxdepth: 2
+
+   3.1.1_call_process
+   3.1.2_call_answer
+
+.. image:: images/domofonstreet.png
+   :width: 600px
+   :align: center
+   :alt: "Нажмите кнопку"
+
